@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'yuanxiaowei blog',
+  name: '小vの分享',
   domain: 'yuanxiaowei.top',
-  author: 'yuanxiaowei',
+  author: '小v',
 
   // open graph metadata (optional)
   description: 'yuanxiaowei blog',
